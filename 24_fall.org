@@ -2,7 +2,7 @@
 
 * bus 111w
 ** properties
-*** teacher
+*** teacher: David Swanston
 *** location: lec - (laz hall) LH3094; lab - (schlegel) SB204
 ** schedule
 *** TODO 111w lecture
@@ -14,7 +14,7 @@ SCHEDULED: <2024-09-10 Tue 19:00-20:20 ++1w>
 
 * econ 120w
 ** properties
-*** teacher
+*** teacher: Tammy Schirle
 *** location: lec - (laz hall) LH1001
 ** schedule
 *** TODO 120w lecture
@@ -40,7 +40,7 @@ SCHEDULED: <2024-09-06 Fri 15:30-16:20 ++1w>
 
 * math 147
 ** properties
-*** teacher:
+*** teacher: Kateryna Tatarko
 *** location: lec - (MC) 4021; tut - (MC) 4059
 ** schedule
 *** TODO 147 lecture
@@ -56,7 +56,7 @@ SCHEDULED: <2024-09-09 Mon 16:30-17:20 ++1w>
 
 * cs 135
 ** properties
-*** teacher:
+*** teacher: Mark Petrick
 *** location: lec - (MC) 2035; tut - (MC) 4060
 ** schedule
 *** TODO 135 lecture
