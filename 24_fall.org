@@ -1,0 +1,22 @@
+#+title: uni fall 24 term
+
+* bus 111w
+** properties
+*** teacher
+*** textbook
+*** location: lec - (laz hall) LH 3094; lab - (schlegel) SB204
+** schedule
+*** TODO 111w lecture
+SCHEDULED: <2024-09-10 Tue 8:30-9:50 ++1w>
+*** TODO 111w lecture
+SCHEDULED: <2024-09-05 Thu 8:30-9:50 ++1w>
+*** TODO 111w lab
+SCHEDULED: <2024-09-05 Thu 19:00-20:20 ++1w>
+
+* econ 120w
+
+* math 145
+
+* math 147
+
+* cs 135
