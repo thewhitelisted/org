@@ -3,20 +3,67 @@
 * bus 111w
 ** properties
 *** teacher
-*** textbook
-*** location: lec - (laz hall) LH 3094; lab - (schlegel) SB204
+*** location: lec - (laz hall) LH3094; lab - (schlegel) SB204
 ** schedule
 *** TODO 111w lecture
 SCHEDULED: <2024-09-10 Tue 8:30-9:50 ++1w>
 *** TODO 111w lecture
 SCHEDULED: <2024-09-05 Thu 8:30-9:50 ++1w>
 *** TODO 111w lab
-SCHEDULED: <2024-09-05 Thu 19:00-20:20 ++1w>
+SCHEDULED: <2024-09-10 Tue 19:00-20:20 ++1w>
 
 * econ 120w
+** properties
+*** teacher
+*** location: lec - (laz hall) LH1001
+** schedule
+*** TODO 120w lecture
+SCHEDULED: <2024-09-10 Tue 10:00-11:20 ++1w>
+*** TODO 120w lecture
+SCHEDULED: <2024-09-05 Thu 10:00-11:20 ++1w>
 
 * math 145
+** properties
+*** teacher: Jerry Wang
+*** location: lec - (MC) 4020; tut - (MC) 4059
+** schedule
+*** TODO 145 lecture
+SCHEDULED: <2024-09-09 Mon 13:30-14:20 ++1w>
+*** TODO 145 lecture
+SCHEDULED: <2024-09-11 Wed 13:30-14:20 ++1w>
+*** TODO 145 lecture
+SCHEDULED: <2024-09-06 Fri 13:30-14:20 ++1w>
+*** TODO 145 tutorial
+SCHEDULED: <2024-09-06 Fri 15:30-16:20 ++1w>
+** homework
+*** TODO 145 homework
 
 * math 147
+** properties
+*** teacher:
+*** location: lec - (MC) 4021; tut - (MC) 4059
+** schedule
+*** TODO 147 lecture
+SCHEDULED: <2024-09-09 Mon 11:30-12:20 ++1w>
+*** TODO 147 lecture
+SCHEDULED: <2024-09-11 Wed 11:30-12:20 ++1w>
+*** TODO 147 lecture
+SCHEDULED: <2024-09-06 Fri 11:30-12:20 ++1w>
+*** TODO 147 tutorial
+SCHEDULED: <2024-09-09 Mon 16:30-17:20 ++1w>
+** notes
+- tests set for mondays 19:00-20:50
 
 * cs 135
+** properties
+*** teacher:
+*** location: lec - (MC) 2035; tut - (MC) 4060
+** schedule
+*** TODO 135 lecture
+SCHEDULED: <2024-09-10 Tue 14:30-15:50 ++1w>
+*** TODO 135 lecture
+SCHEDULED: <2024-09-05 Thu 14:30-15:50 ++1w>
+*** TODO 135 tutorial
+SCHEDULED: <2024-09-06 Fri 14:30-15:20 ++1w>
+** notes
+- tests set for mondays 19:00-20:50
